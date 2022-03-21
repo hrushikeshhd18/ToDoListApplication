@@ -1,6 +1,6 @@
 # Todo-List
 
-[![fork](https://img.shields.io/github/forks/hrushikeshhd18/ToDoListApplication?style=social)
+![fork](https://img.shields.io/github/forks/hrushikeshhd18/ToDoListApplication?style=social)
 
 <html>
 
