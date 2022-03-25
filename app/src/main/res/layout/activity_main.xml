@@ -43,7 +43,7 @@
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:layout_gravity="right|center"
-            android:background="@drawable/calendar"
+            android:background="@drawable/calender"
             android:id="@+id/calendar"/>
 
     </FrameLayout>
