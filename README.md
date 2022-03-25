@@ -1,11 +1,9 @@
 # Todo-List
-
-![fork](https://img.shields.io/github/forks/hrushikeshhd18/ToDoListApplication?style=social)
-
 <html>
 
 <head>
-
+![buildwq](https://github.com/ntkme/github-buttons/workflows/build/badge.svg)
+[![fork](https://img.shields.io/github/forks/hrushikeshhd18/ToDoListApplication?style=social)
 </head>
 
 <body>
